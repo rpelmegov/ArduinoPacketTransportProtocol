@@ -3,7 +3,6 @@ Unity generated
 ===============
 Temp/
 Library/
-*.meta merge=unityyamlmerge
 
 =====================================
 Visual Studio / MonoDevelop generated
@@ -19,6 +18,7 @@ obj/
 *.user
 *.unityproj
 *.booproj
+*.meta
 
 ============
 OS generated
