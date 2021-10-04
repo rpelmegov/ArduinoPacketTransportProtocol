@@ -3,6 +3,7 @@ Unity generated
 ===============
 Temp/
 Library/
+*.meta
 
 =====================================
 Visual Studio / MonoDevelop generated
@@ -18,7 +19,6 @@ obj/
 *.user
 *.unityproj
 *.booproj
-*.meta
 
 ============
 OS generated
@@ -30,6 +30,3 @@ OS generated
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Asset meta data should only be ignored when the corresponding asset is also ignored
-!/[Aa]ssets/**/*.meta
